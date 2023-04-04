@@ -113,7 +113,7 @@ p {
 .wrapper .sidebar{
   width: 300px;
   height: 100%;
-  background: #4b4276;
+  background: #c5b610;
   padding: 30px 0px;
   position: fixed;
 }
@@ -133,7 +133,7 @@ p {
 }    
 
 .wrapper .sidebar ul li a{
-  color: #bdb8d7;
+  color: #09090a;
   display: block;
   margin-left: 50px;
 }
@@ -167,9 +167,9 @@ p {
 .wrapper .main_content .tablero .btn{
   width: 50px;
   height: 50px;
-  border: 2px solid #444971;
+  border: 2px solid #47b164;
   float: left;
-  background-color: #828CD6;				
+  background-color: #f3f4f6;				
   font-size: 30;	
   text-align: center;
 }
@@ -177,7 +177,7 @@ p {
   margin-top: 200px;
 }
 .partidas div{
-  border: 2px solid #444971;
+  border: 2px solid #e5c234;
   border-radius: 20px;
   margin-left: 450px;
   margin-top: 10px;
@@ -187,7 +187,7 @@ p {
 }
 .partidas h1{
   text-align: center;
-  color: #444971;
+  color: #50db29;
   margin-top: 15px;
   font-family: 'Bellota Text', cursive;
 }
